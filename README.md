@@ -2,6 +2,7 @@
 
 This repository is now part of **https://github.com/matteobruni/tsparticles**
 
+---
 
 ## tsParticles - Preact Component ![Node.js CI](https://github.com/matteobruni/preact-particles/workflows/Node.js%20CI/badge.svg)
 
